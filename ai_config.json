@@ -1,0 +1,11 @@
+{
+  "provider": "openai",
+  "openai": {
+    "api_key": "输入你的OPENAI API KEY",
+    "model": "gpt-4.1-mini"
+  },
+  "qwen": {
+    "api_key": "输入你的qwenAPI KEY",
+    "model": "qwen3.5-plus"
+  }
+}
